@@ -1,0 +1,26 @@
+.hero-container{
+  background-color: black;
+  
+}
+.main-container{
+  display: grid;
+  background-color: burlywood;
+
+}
+.poster{
+height: 500px;
+width: 400px;
+}
+/* .ticket-container{
+ 
+
+} */
+/* .ticket-content{
+
+} */
+.ticket-buy-btn{
+  width:250px;
+  background-color: darkslategrey;
+  color: darkgray;
+  height: 100px;
+}
